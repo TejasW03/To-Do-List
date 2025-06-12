@@ -12,7 +12,7 @@ A responsive and modern Todo List manager built with **React**, **Material UI**,
 
 ##  Screenshot
 
-![App Screenshot](assets/capture.jpg)  
+![App Screenshot](assets/Capture.jpg)  
 
 
 ## Tech Stack
